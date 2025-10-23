@@ -1,4 +1,4 @@
-# 3d-portfolio
+# 3d-portfolio by Adam Hanafi
 
 Personal Portfolio website designed using ThreeJS
 
